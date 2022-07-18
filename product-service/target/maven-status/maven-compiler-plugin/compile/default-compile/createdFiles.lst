@@ -1,0 +1,10 @@
+com\rk\controller\ProductController.class
+com\rk\model\Product$ProductBuilder.class
+com\rk\ProductApp.class
+com\rk\dto\ProductDto.class
+com\rk\dto\ProductResponse.class
+com\rk\dto\ProductDto$ProductDtoBuilder.class
+com\rk\dto\ProductResponse$ProductResponseBuilder.class
+com\rk\service\ProductService.class
+com\rk\repository\ProductRepository.class
+com\rk\model\Product.class
